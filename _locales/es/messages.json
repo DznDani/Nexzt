@@ -1,0 +1,80 @@
+{
+	"activityDetails": {
+		"message": "Opcional: Detalles (Ej: 5v5 Duelo a Muerte)"
+	},
+	"activitySource": {
+		"message": "en el %"
+	},
+	"activityState": {
+		"message": "Optional: State (e.g. In Game)"
+	},
+	"activityStreamURL": {
+		"message": "Link de la transmisión"
+	},
+	"activityTypeListening": {
+		"message": "Escuchando"
+	},
+	"activityTypePlaying": {
+		"message": "Jugando"
+	},
+	"activityTypeStreaming": {
+		"message": "Transmitiendo"
+	},
+	"activityTypeWatching": {
+		"message": "Mirando"
+	},
+	"activityTypeCompetingIn": {
+		"message": "Compitiendo en"
+	},
+	"activityTypeCustomStatus": {
+		"message": "Estado personalizado"
+	},
+	"activityUpdate": {
+		"message": "Aplicar Actividad"
+	},
+	"appDesc": {
+		"message": "Configura como \"Jugando\", \"Transmitiendo\", \"Escuchando\" O \"Mirando\" En discord con lo que desees."
+	},
+	"appName": {
+		"message": "Set Discord Activity"
+	},
+	"hintTwitchOnly": {
+		"message": "El link de la transmisión debe empezar con: https://twitch.tv/"
+	},
+	"loading": {
+		"message": "Set Discord Activity está cargando..."
+	},
+	"noTabHelp1": {
+		"message": "Si ya hay una pestaña abierta, refrescala. Si no, simplemente "
+	},
+	"noTabHelp2": {
+		"message": "abre una"
+	},
+	"noTabHelp3": {
+		"message": "."
+	},
+	"noTabPrefix": {
+		"message": "No he detectado una pestaña de "
+	},
+	"noTabSuffix": {
+		"message": " abierta."
+	},
+	"source": {
+		"message": "Fuente:"
+	},
+	"sourceAutoMusic": {
+		"message": "Tu actividad en Discord será el nombre más el autor de la cancion que estás escuchando o estará vacia si no estás escuchando una canción."
+	},
+	"sourceAutoPlex": {
+		"message": "Tu actividad en Discord será el nombre del episodio, pelicula que estás viendo o canción que estés escuchando y estará vacia si no estás escuchando o viendo."
+	},
+	"sourceAutoVideo": {
+		"message": "Tu actividad en Discord será el titulo del video que estás viendo o estará vacia si no estás viendo un video."
+	},
+	"sourceOff": {
+		"message": "Apagado"
+	},
+	"sourceCustom": {
+		"message": "Personalizada"
+	}
+}
