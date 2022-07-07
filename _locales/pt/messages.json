@@ -33,13 +33,13 @@
 		"message": "Defina \"Jogando\", \"Transmissão\", \"Ouvindo\" & \"Assistindo\" no Discord para o que você quiser."
 	},
 	"appName": {
-		"message": "Set Discord Activity — Definir status do Discord"
+		"message": "Nexzt"
 	},
 	"hintTwitchOnly": {
 		"message": "O link de sua transmissão deverá começar com https://twitch.tv/"
 	},
 	"loading": {
-		"message": "Set Discord Activity está carregando, por favor aguarde..."
+		"message": "Nexzt está carregando, por favor aguarde..."
 	},
 	"noTabHelp1": {
 		"message": "Se uma guia já estiver aberta, recarregue-a. Se não, simplesmente "

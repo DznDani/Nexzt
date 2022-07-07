@@ -17,7 +17,9 @@ THIS IS A PERSONAL FORK FROM [SET DISCORD ACTIVITY](https://github.com/Sainan/Se
 
 
 ## TODO
-- [ ] Migrate from Manifest V2 to Manifest V3 using service workers
+
+- [ ] Migrate from Manifest V2 to Manifest V3 using service workers.
 - [ ] Add a "Dark Mode" option?
 - [ ] Add a "Light Mode" option too?
-- [ ] Use the "Box model" for CSS i guess
+- [ ] Use the "Box model" for CSS i guess.
+- [ ] Create a size for selecting the type of custom rich presence.

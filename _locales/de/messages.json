@@ -36,13 +36,13 @@
 		"message": "Setze \"Spielt\", \"Streamt\", \"Hört\" & \"Schaut\" in Discord auf was du willst."
 	},
 	"appName": {
-		"message": "Set Discord Activity — Setze deine Discord Aktivität"
+		"message": "Nexzt"
 	},
 	"hintTwitchOnly": {
 		"message": "Der Stream Link muss mit https://twitch.tv/ anfangen"
 	},
 	"loading": {
-		"message": "Set Discord Activity lädt..."
+		"message": "Nexzt lädt..."
 	},
 	"noTabHelp1": {
 		"message": "Falls einer offen ist, lade ihn noch. Falls nicht, "

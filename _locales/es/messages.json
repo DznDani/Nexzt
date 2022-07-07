@@ -3,7 +3,7 @@
 		"message": "Opcional: Detalles (Ej: 5v5 Duelo a Muerte)"
 	},
 	"activitySource": {
-		"message": "en el %"
+		"message": "en %"
 	},
 	"activityState": {
 		"message": "Optional: State (e.g. In Game)"
@@ -36,13 +36,13 @@
 		"message": "Configura como \"Jugando\", \"Transmitiendo\", \"Escuchando\" O \"Mirando\" En discord con lo que desees."
 	},
 	"appName": {
-		"message": "Set Discord Activity"
+		"message": "Nexzt"
 	},
 	"hintTwitchOnly": {
 		"message": "El link de la transmisión debe empezar con: https://twitch.tv/"
 	},
 	"loading": {
-		"message": "Set Discord Activity está cargando..."
+		"message": "Nexzt está cargando..."
 	},
 	"noTabHelp1": {
 		"message": "Si ya hay una pestaña abierta, refrescala. Si no, simplemente "

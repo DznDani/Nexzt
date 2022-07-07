@@ -36,13 +36,13 @@
 		"message": "Discordの｢プレイ中｣｢配信中｣｢再生中｣｢視聴中｣を思い通りに設定しましょう。"
 	},
 	"appName": {
-		"message": "Set Discord Activity"
+		"message": "Nexzt"
 	},
 	"hintTwitchOnly": {
 		"message": "配信URLは\"https://twitch.tv/\"から始まる必要があります。"
 	},
 	"loading": {
-		"message": "Set Discord Activityを読み込み中..."
+		"message": "Nexztを読み込み中..."
 	},
 	"noTabHelp1": {
 		"message": "タブがすでに開いている場合は再読み込みしてください。開いていなければ、"
