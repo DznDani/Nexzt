@@ -1,5 +1,23 @@
-# Set Discord Activity
+<p align="center">
+<img src="./logo.png" width=150>
+</p>
 
-Set "Playing", "Streaming", "Listening to" & "Watching" in Discord to whatever you want.
+<b><h1 align="center">Nexzt</h1></b>
 
-## [[ Get it on the Chrome Web Store ]](https://chrome.google.com/webstore/detail/set-discord-activity/dlmmhgaeahcfkojednnfghfpinbinicj) [[ Manual Download ]](https://clients2.google.com/service/update2/crx?response=redirect&prodversion=64.0.3282.186&x=id%3Ddlmmhgaeahcfkojednnfghfpinbinicj%26uc)
+THIS IS A PERSONAL FORK FROM [SET DISCORD ACTIVITY](https://github.com/Sainan/Set-Discord-Activity) TO IMPROVE THE UI AND PRACTICE JS & CSS.
+
+**EN:** Set "Playing", "Streaming", "Listening to" &"Watching" in Discord to whatever you want **(And without using the Discord Desktop App!)**.
+
+**ES:** Establece "Jugando", "Transmitiendo", "Escuchando" & "Viendo" en Discord a lo que quieras **(Y sin la aplicación de escritorio de Discord!)**.
+
+<p align="center">
+<a href="https://chrome.google.com/webstore/detail/set-discord-activity/dlmmhgaeahcfkojednnfghfpinbinicj">
+<img src="./chromews.png" align="center">
+</a></p>
+
+
+## TODO
+- [ ] Migrate from Manifest V2 to Manifest V3 using service workers
+- [ ] Add a "Dark Mode" option?
+- [ ] Add a "Light Mode" option too?
+- [ ] Use the "Box model" for CSS i guess
