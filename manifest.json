@@ -6,8 +6,8 @@
 	"icons": {
 		"128": "icon.png"
 	},
-	"version": "2.10.0",
-	"author": "Sainan",
+	"version": "2.30",
+	"author": "Sainan & DznDani",
 	"minimum_chrome_version": "41",
 	"permissions": [
 		"storage"
