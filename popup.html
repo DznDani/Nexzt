@@ -2,18 +2,22 @@
 <html>
 <head>
 	<meta charset="UTF-8">
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo+Black&display=swap" >
+	<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@300&display=swap" >
 	<link rel="stylesheet" href="popup.css">
 </head>
+<div id="body">
 <body>
-	<h1>Set Discord Activity</h1>
+	<h1 id="title">Nexzt</h1>
 	<div id="content-loading"><p data-message="loading"></p></div>
 	<div id="content-notab" class="hidden">
 		<p><b><span data-message="noTabPrefix"></span>Discord<span data-message="noTabSuffix"></span></b></p>
-		<p><span data-message="noTabHelp1"></span><a data-message="noTabHelp2" href="https://discord.com/channels/@me" target="_blank"></a><span data-message="noTabHelp3"></span></p>
+		<p><span data-message="noTabHelp1"></span><a data-message="noTabHelp2" href="https://discord.com/channels/@me" target="_blank" id="noTabHelp2"></a><span data-message="noTabHelp3"></span></p>
 	</div>
 	<div id="content-ok" class="hidden">
 		<p>
-			<span data-message="source"></span>
+			<span data-message="source" id="sourcetxt"></span>
+			<div class="source-select">
 			<select id="source">
 				<option value="off" data-message="sourceOff"></option>
 				<option value="custom" data-message="sourceCustom"></option>
@@ -21,7 +25,7 @@
 				<option value="youtubemusic">YouTube Music</option>
 				<option value="soundcloud">SoundCloud</option>
 				<option value="plex">Plex</option>
-			</select>
+			</select> </div>
 		</p>
 		<div id="content-source-off" class="hidden"></div>
 		<div id="content-source-custom" class="hidden">
@@ -38,7 +42,7 @@
 			<input type="text" id="state" data-placeholder="activityState">
 			<div id="party">
 				<input type="number" id="partycur" placeholder="6">
-				/
+				<h1 id="divider">/</h1>
 				<input type="number" id="partymax" placeholder="10">
 			</div>
 			<input type="text" id="streamurl" value="https://twitch.tv/settings" data-placeholder="activityStreamURL">
@@ -83,6 +87,12 @@
 		</div>
 		<button id="updatebtn" data-message="activityUpdate"></button>
 	</div>
+	<div id="container"></div>
+	<div id=line1></div>
+	<div id=line2></div>
+	<div id=line3></div>
+	<a id="sainan" href="https://github.com/Sainan/Set-Discord-Activity" target="_blank" >By Sainan</a>
 	<script src="popup.js"></script>
 </body>
+</div>
 </html>
