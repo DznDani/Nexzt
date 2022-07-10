@@ -3,6 +3,9 @@
 </p>
 
 <b><h1 align="center">Nexzt</h1></b>
+<p align="center">
+<img src="./img/html.png" width=30><img src="./img/css.png" width=30><img src="./img/js.png" width=30>
+</p>
 
 THIS IS A PERSONAL FORK FROM [SET DISCORD ACTIVITY](https://github.com/Sainan/Set-Discord-Activity) TO IMPROVE THE UI AND PRACTICE JS & CSS.
 
