@@ -24,6 +24,12 @@ THIS IS A PERSONAL FORK FROM [SET DISCORD ACTIVITY](https://github.com/Sainan/Se
 - [ ] Use the "Box model" for CSS i guess.
 - [ ] Create a size for selecting the type of custom rich presence.
 
+## Screenshots
+
+![1](./img/1.png)
+![2](./img/2.png)
+![3](./img/3.png)
+
 ## How to try this fork
 
 **This extension only works on a chromium based browser.** Such as: <img src="./img/edge.png" width= 15> [Edge](https://www.microsoft.com/edge), <img src="./img/chrome.png" width=15> [Chrome](https://www.google.com/chrome/), <img src="./img/brave.png" width=15> [Brave](https://brave.com), <img src="./img/opera.png" width=15> [Opera](https://www.opera.com), etc...
@@ -44,5 +50,7 @@ THIS IS A PERSONAL FORK FROM [SET DISCORD ACTIVITY](https://github.com/Sainan/Se
 
 ![load](./img/loaddark.png#gh-dark-mode-only)
 ![load](./img/loadlight.png#gh-light-mode-only)
+![final](./img/finaldark.png#gh-dark-mode-only)
+![final](./img/finallight.png#gh-light-mode-only)
 
 ### And you're done!
