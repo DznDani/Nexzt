@@ -50,6 +50,7 @@ THIS IS A PERSONAL FORK FROM [SET DISCORD ACTIVITY](https://github.com/Sainan/Se
 
 ![load](./img/loaddark.png#gh-dark-mode-only)
 ![load](./img/loadlight.png#gh-light-mode-only)
+
 ![final](./img/finaldark.png#gh-dark-mode-only)
 ![final](./img/finallight.png#gh-light-mode-only)
 
