@@ -7,6 +7,8 @@
 <img src="./img/html.png" width=30><img src="./img/css.png" width=30><img src="./img/js.png" width=30>
 </p>
 
+# Since [Premid](https://premid.app/) Now supports Watching, Playing, Listening, this extension is kinda unnecessary.
+
 THIS IS A PERSONAL FORK FROM [SET DISCORD ACTIVITY](https://github.com/Sainan/Set-Discord-Activity) TO IMPROVE THE UI AND PRACTICE JS & CSS.
 
 **EN:** Set "Playing", "Streaming", "Listening to" &"Watching" in Discord to whatever you want **(And without using the Discord Desktop App!)**.
